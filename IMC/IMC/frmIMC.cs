@@ -30,7 +30,29 @@ namespace IMC
             {
                 c = a / (b * b);
                 textBox3.Text = "IMC: "+c.ToString();
+
+                if (c >= 18.5 && c <= 24.9)
+                {
+                    textBox1.Text = "RIESGO: PROMEDIO";
+                }else
+                    if(c >= 25 && c <= 29.9)
+                {
+                    textBox1.Text = "RIESGO: AUMENTADO";
+                }else
+                    if(c >= 30 && c <= 34.9)
+                {
+                    textBox1.Text = "RIESGO: MODERADO";
+                }else
+                    if(c >= 35 && c <= 39.9)
+                {
+                    textBox1.Text = "RIESGO: SEVERO";
+                }else
+                    if(c >= 40)
+                {
+                    textBox1.Text = "RIESGO: MUY SEVERO";
+                }
             }
+
         }
     }
 }

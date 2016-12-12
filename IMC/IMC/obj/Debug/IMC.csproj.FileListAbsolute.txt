@@ -1,0 +1,9 @@
+D:\Universidad\Evolucion de Software\IMC\IMC\bin\Debug\IMC.exe.config
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.csprojResolveAssemblyReference.cache
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.frmIMC.resources
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.Cache
+D:\Universidad\Evolucion de Software\IMC\IMC\bin\Debug\IMC.exe
+D:\Universidad\Evolucion de Software\IMC\IMC\bin\Debug\IMC.pdb
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.exe
+D:\Universidad\Evolucion de Software\IMC\IMC\obj\Debug\IMC.pdb
